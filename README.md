@@ -5,3 +5,5 @@ Concepts learned:
 - Token IDs
 - Encoding
 - Decoding
+
+DAy2 : pytorch environment setup completed
