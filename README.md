@@ -6,4 +6,7 @@ Concepts learned:
 - Encoding
 - Decoding
 
-DAy2 : pytorch environment setup completed
+Day2 : pytorch environment setup completed
+
+Implemented token embedding layer using PyTorch.
+Converted token IDs into dense vector representations.
